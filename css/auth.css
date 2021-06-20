@@ -1,0 +1,42 @@
+body{
+    background-color: #19212B;
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+
+
+.title-login{
+    color: black;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.subtitle-login{
+    color: grey;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.container-login{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.login{
+    background-color: #2E2E46 !important;
+    color: white !important;
+    width: 80px;
+}
+
+.aksen{
+background-color: #1ea5fc !important;
+}
+
+.aksen:hover{
+    background-color: #005bff !important;
+    
+    }
+
+.aksi-profile{
+    display: none;
+}
